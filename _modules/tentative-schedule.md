@@ -1,52 +1,31 @@
 ---
-title: Modules for CIS350 - Intro. to Software Engineering
+title: Modules for CIS641 - Systems Analysis and Design
 ---
 
 1
-: [Introduction](../assets/slides/CIS350-1-Introduction.pdf){:target="_blank"}
-  : [Slides](../assets/slides/CIS350-1-Introduction.pdf){:target="_blank"}
+: [Introduction](../assets/slides/CIS641-1-Intro-to-SAaD.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS641-1-Intro-to-SAaD.pdf){:target="_blank"}
 
 2
-: [Ethics](#)
-  : [Slides](#) 
-
+: [More Software Engineering](#){:target="_blank"}
+  : [Slides](#){:target="_blank"}
 
 3
-: [Software Process Models](#)
-  : [Slides](#)
+: [Functional / Structural / Behavioral Modeling](#){:target="_blank"}
+  : [Slides](#){:target="_blank"}
 
 4
-: [Configuration Management](#)
-  : [Slides](#)
+: [Design](#){:target="_blank"}
+  : [Slides](#){:target="_blank"}
 
 5
-: [Specification](#)
-  : [Slides](#)
+: [Human-Computer Interaction](#){:target="_blank"}
+  : [Slides](#){:target="_blank"}
 
 6
-: [Project Management](#)
-  : [Slides](#)
+: [Deployment Management](#){:target="_blank"}
+  : [Slides](#){:target="_blank"}
 
 7
-: [Unified Modeling Language (UML)](#)
-  : [Slides](#)
-
-8
-: [Object-Oriented Analysis and Design](#)
-  : [Slides](#)
-
-9
-: [Design Patterns](#)
-  : [Slides](#)
-
-10
-: [Verification and Validation](#)
-  : [Slides](#)
-
-11
-: [System Building](#)
-  : [Slides](#)
-
-12
-: [Remaining Material](#)
-  : [Slides](#)
+: [Search-Based Software Engineering](#){:target="_blank"}
+  : [Slides](#){:target="_blank"}

@@ -1,14 +1,14 @@
 ---
 layout: home
-title: CIS350 - Software Engineering
+title: CIS641 - Systems Analysis and Design
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Software Engineering
+  name: Systems Analysis and Design
 ---
 
-# CIS350 - Intro to Software Engineering
+# CIS641 - Systems Analysis and Design
 {:.no_toc}
 
 ## Table of contents
@@ -21,39 +21,51 @@ seo:
 
 ## Course Description
 
-* Systems development life cycle from project request through project implementation and evaluation. 
-* Systems analysis and design concepts, tools and techniques are emphasized. 
-* Traditional and structured approaches. 
-* Project management.
+* Models and techniques for the major phases of software development, with emphasis on requirements specification, design, testing, and software maintenance. 
+* Description of the roles of project management, quality assurance, and configuration management.
 
 ---
 
 ## Learning Objectives
 
-Software Engineering of computer-based information systems deals with technologies, notations, tools, and procedures to improve both the process of software development and the resulting products. Software requirements analysis, design, testing, and metrics are emphasized.  Please take note: this course no longer satisfies the SWS (Supplemental Writing Skills) requirement and is not an SWS course. 
+This course is intended to be a managerial level viewpoint of the entire systems development life cycle. As such, its primary objective is to introduce/expose the students to the various lifecycle approaches existing in industry and to the fundamental work products of each phase of the typical, or generic lifecycle. The goal of this course is to prepare the student for a leadership role in systems development. Upon completion of this course, the students should have a fundamental understanding of how to:
 
-Specifically, students will:
-* Describe the phases, activities, advantages, and limitations of major software development life cycle models.
-* Be able to learn and apply requirements, analysis, and design techniques.
-* Use UML diagrams to specify static and dynamic aspects of software systems.
-* Apply project management techniques and tools (such as COCOMO, Earned Value Analysis) to estimate effort, schedule, and measure project progress indicators.
-* Apply black-box and white-box software testing techniques.
-* Demonstrate an understanding of social, legal, ethical, and global issues in computing.
-* Write a technical report utilizing consistent formatting and citation guidelines.
+* Analyze the business needs that drive the need for IS solutions.
+* Compare and contrast stakeholder roles in IS development.
+* Explain a typical IS project lifecycle.
+* Evaluate and choose appropriate system development lifecycles and methodologies.
+* Evaluate and choose appropriate systems acquisition alternatives.
+* Illustrate quality assurance and security concerns faced in all phases of systems development.
+* Analyze a business process and create a high-level design specification.
+* Analyze and articulate ethical, cultural, and legal issues associated with systems development.
 
 ---
 
 ## Lecture
 
-Class meets 3 times a week in person.  Typically class will comprise a lecture with some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
+Class meets once a week in person.  Typically class will comprise a lecture, a research paper presentation, discussion, and some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
 
 **Note**: I will not accept late in-class assignment submissions - no exceptions.
 
 ---
 
+## Research Paper Presentations
+
+Each student will need to present **at least one** research paper prior to the end of class.  It is your responsibility to sign up for a paper - if you do not sign up you will lose a significant amount of points in the course.
+
+Research papers will reflect the topic of the week.  Typically there will be more than one student presenting, so please decide on your ordering prior to class.
+
+Your individual responsibilities include:
+
+* Reading and understanding an academic research paper.
+* Filling out a template with key points regarding the paper.
+* Presenting the paper to the class and answering questions regarding the paper.
+
+---
+
 ## Term Project
 
-There will be a semester-long team-based term project.  Check out the [term projects page](term-projects) for more details.
+There will be a semester-long term project.  Check out the [term projects page](term-projects) for more details.
 
 ---
 
@@ -81,6 +93,7 @@ Unless you have access to Visio or OmniGraffle, here are some suggestions for op
 
 * [diagrams.net (formerly DrawIO)](https://app.diagrams.net/){:target="_blank"}
 * [Papyrus (Eclipse plugin)](http://www.eclipse.org/papyrus/){:target="_blank"}
+* [sequencediagram.org](https://sequencediagram.org/){:target="_blank"}
 
 ### Git/GitHub-Related
 
@@ -94,5 +107,4 @@ Unless you have access to Visio or OmniGraffle, here are some suggestions for op
 
 ### Other
 
-* [Bitsy - Interactive Syllabus](https://efredericks.github.io/CIS-three-fitsy/){:target="_blank"}
 * [Team Communication](https://asana.com/resources/team-communication){:target="_blank"}

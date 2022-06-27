@@ -18,17 +18,17 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
+  - '6:30 PM'
+  - '7:00 PM'
+  - '7:30 PM'
+  - '8:00 PM'
+  - '8:30 PM'
+  - '9:00 PM'
+  - '9:30 PM'
 schedule:
   - name: Monday
     events:
-      - name: Section 02
-        start: 10:00 AM
-        end: 10:50 AM
-        location: MAK D1-117
-      - name: Section 01
-        start: 1:00 PM
-        end: 1:50 PM
-        location: MAK D1-117
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
@@ -40,29 +40,20 @@ schedule:
         end: 10:00 AM
   - name: Wednesday
     events:
-      - name: Section 02
-        start: 10:00 AM
-        end: 10:50 AM
-        location: MAK D1-117
-      - name: Section 01
-        start: 1:00 PM
-        end: 1:50 PM
-        location: MAK D1-117
+      - name: Research templates due before class
+        start: 5:00 PM
+        end: 5:55 PM
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
         location: MAK D2-210
+      - name: CIS680
+        start: 6:00 PM
+        end: 8:50 PM
+        location: DCIH 303
   - name: Thursday
   - name: Friday
     events:
-      - name: Section 02
-        start: 10:00 AM
-        end: 10:50 AM
-        location: MAK D1-117
-      - name: Section 01
-        start: 1:00 PM
-        end: 1:50 PM
-        location: MAK D1-117
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM

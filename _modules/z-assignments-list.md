@@ -5,7 +5,7 @@ title: Expected Assignments
 **Note - all assignment files are hosted/submitted within [Blackboard](https://lms.gvsu.edu)**
 
 &nbsp;
-: Prerequisites and Ethics 
+: Ethics and Early Questions
   : **Homework**{: .label .label-purple } 
 
 &nbsp;
@@ -13,19 +13,15 @@ title: Expected Assignments
   : **Team Homework**{: .label .label-green } 
 
 &nbsp;
-: Intro to Git -- **possible lab**? 
-  : **Homework**{: .label .label-purple }
-
-&nbsp;
-: Setup Git Repositories 
+: Project Setup + Project Management
   : **Homework**{: .label .label-purple } **Team Homework**{: .label .label-green } 
 
 &nbsp;
-: Requirements and Use Cases 
-  : **Team Homework**{: .label .label-green } 
+: Software Requirements
+  : **Homework**{: .label .label-purple } **Team Homework**{: .label .label-green } 
 
 &nbsp;
-: Project Planning 
+: UML Diagrams
   : **Homework**{: .label .label-purple } **Team Homework**{: .label .label-green } 
 
 &nbsp;
@@ -33,12 +29,8 @@ title: Expected Assignments
   : **Team Homework**{: .label .label-green } 
 
 &nbsp;
-: Design Pattern Implementation 
-  : **Homework**{: .label .label-purple } 
-
-&nbsp;
-: Continuous Integration 
-  : **Lab**{: .label .label-blue } 
+: Class Diagrams
+  : **Team Homework**{: .label .label-purple } 
 
 &nbsp;
 : Teammate Evaluation 

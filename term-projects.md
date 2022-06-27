@@ -17,27 +17,48 @@ description: >-
 
 One thing to keep in mind is that I will be keeping an eye on your commit history, watching your interactions, keeping tabs, etc.  Ensure that you put in an equal amount of effort!  If you are the type of student that lets your team members do all the work, expect your grade to be scaled appropriately.
 
-Your **overall task** is to create a functioning product that uses the software engineering techniques we talk about in class.  Your project deliverables will approximately follow what we're talking about in class.
+Your **overall task** is to create a functioning product that uses the techniques we talk about in class.  Your project deliverables will approximately follow what we're talking about in class.
 
 ---
 
 ## Project Responsibilities
 
-1. Form a project team and decide on your project
-2. Setup a GitHub repository for your team (you'll fork my [starter repository](https://github.com/gvsu-cis350/base))
-  * At this point, you will start having weekly meetings **and** checking in your minutes to your repository
-3. Create Use Cases for your project
-4. Create a Software Requirements Specification
-5. Develop a functioning prototype // minimum viable product
-6. Present your progress about halfway through the semester
-7. Present your final product at the end of the semester
-8. Evaluate your teammates at the end of the semester
+1. Form a project team and decide on your project.
+2. Setup a GitHub repository for your team (you'll fork my [starter repository](https://github.com/gvsu-cis641/base)).
+  * At this point, you will start having weekly meetings **and** checking in your minutes to your repository.
+  * Minutes are still **required** even if you are a team of one - use them to keep yourself on topic.
+4. Create an initial Software Requirements Specification and CRC cards.
+5. Develop a functioning prototype // minimum viable product.
+6. Present your progress about halfway through the semester.
+7. Iterate your requirements and develop supporting software models.
+8. Present your final product at the end of the semester.
+9. Evaluate your teammates at the end of the semester
 
 ---
 
 ## Project Examples
 
-Your team has the option to choose whatever project you wish to work on (pending approval and scoping, naturally).  Note: you can use *whatever* language you want.  Feel free to use pre-existing libraries and/or development environments (e.g., Unity, Godot, RPGMaker, etc.) to get you going - the focus is on the **process**.  However, if you have no pre-defined expectations of what you want to work on then this list may be helpful to get you thinking:
+Your team has the option to choose whatever project you wish to work on (pending approval and scoping, naturally).  Note: you can use *whatever* language you want.  Feel free to use pre-existing libraries and/or development environments (e.g., Mendix, Unity, Godot, RPGMaker, etc.) to get you going - the focus is on the **process**.  However, if you have no pre-defined expectations of what you want to work on then this list may be helpful to get you thinking:
+
+* Pixel art phone application
+* 2D adventure game
+* Google Calendar clone
+* Warehouse inventory web application
+* Note-taking web application
+* Christmas lights controller
+* ML-driven insect identification 
+* E-commerce website
+* Library management system
+* Sushi eating guide phone application
+* University messaging web application
+* Pac-Man Java clone
+* Faculty management system
+* Scientific calculator application 
+* Ride-sharing application
+* Patient/doctor interaction application
+* Unity-based vehicle configurator
+
+*Note - the following list is from CIS350 to give you additional inspiration* :
 
 ### Games
 
@@ -76,7 +97,7 @@ Your team has the option to choose whatever project you wish to work on (pending
 
 ## Weekly Meetings
 
-Each week your team is required to meet (except where otherwise noted) and to create and submit a Meeting Minutes document.  I have a [template](https://github.com/gvsu-cis350/base/tree/master/meetings) in the project start repository for you to fill out.  Ensure you check in your minutes by each week's due date.
+Each week your team is required to meet (except where otherwise noted) and to create and submit a Meeting Minutes document.  I have a [template](https://github.com/gvsu-cis641/base/tree/master/meetings) in the project start repository for you to fill out.  Ensure you check in your minutes by each week's due date.
 
 ## Team Member Issues
 
