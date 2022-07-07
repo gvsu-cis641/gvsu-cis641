@@ -49,6 +49,19 @@ Class meets once a week in person.  Typically class will comprise a lecture, a r
 
 ---
 
+## Textbook
+
+The textbook for this class is **required**!
+
+**Systems Analysis and Design: An Object-Oriented Approach with UML. Dennis, Wixom, and Tegarden.  Sixth edition.**
+ISBN: 978-1-119-55991-7
+
+*Note*: older editions *should* be fine, though I've been told that the newest edition has the cheapest options available for purchase/rent.
+
+Each week I will assign readings and will sporadically assign problems from the textbook (problems will be mirrored in Blackboard if you're worried about version).  Please keep up with the readings as they will go a long way to contextualizing what we discuss in class!
+
+---
+
 ## Research Paper Presentations
 
 Each student will need to present **at least one** research paper prior to the end of class.  It is your responsibility to sign up for a paper - if you do not sign up you will lose a significant amount of points in the course.

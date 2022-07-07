@@ -8,3 +8,8 @@ description: >-
 # Syllabus
 
 * [Fall 2022](#){:target="_blank"}
+
+---
+
+# Plagiarism Policy
+
