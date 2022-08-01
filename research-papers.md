@@ -39,7 +39,7 @@ The purpose of this activity is threefold:
 ## Presenters
 
 1. Read the paper multiple times (it will help).
-2. Fill out the [paper template](../assets/docs/CIS641-Paper-Review-Template.docx) and submit to [Blackboard](https://lms.gvsu.edu){:target="_blank"} by **5pm the day of your presentation**.
+2. Fill out the [paper template](../assets/docs/CIS641-Paper-Review-Template.docx) and submit to [Blackboard](https://lms.gvsu.edu){:target="_blank"} **prior to the start of class on the day of your presentation**.
 3. If you are presenting in a group, discuss the order of presentation prior to class and which parts each person will be presenting.  Essentially, I want you to distill your thoughts and not simply read your template.
 
 ---

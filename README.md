@@ -43,7 +43,7 @@ This course is intended to be a managerial level viewpoint of the entire systems
 
 ## Lecture
 
-Class meets once a week in person.  Typically class will comprise a lecture, a research paper presentation, discussion, and some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
+This class has *two* sections.  For both, we will meet in person.  Typically class will comprise a lecture, a research paper presentation, discussion, and some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
 
 **Note**: I will not accept late in-class assignment submissions - no exceptions.
 
@@ -60,11 +60,19 @@ ISBN: 978-1-119-55991-7
 
 Each week I will assign readings and will sporadically assign problems from the textbook (problems will be mirrored in Blackboard if you're worried about version).  Please keep up with the readings as they will go a long way to contextualizing what we discuss in class!
 
+### READ THIS!
+
+To save costs, I signed up for the GVSU SAVE program with the GVSU Bookstore.  This means that you are auto-charged for the book, however it is (in theory) offered at a significant cost savings.  You are allowed to **opt-out** if you wish to purchase the book yourself from another location, however you need to manually opt out.  
+
+**The deadline to opt-out is Friday, September 9th**.
+
+To opt-out, visit this page: [https://lakerstore.gvsu.edu/gvsusave](https://lakerstore.gvsu.edu/gvsusave){:target="_blank"} and follow the instructions.
+
 ---
 
 ## Research Paper Presentations
 
-Each student will need to present **at least one** research paper prior to the end of class.  It is your responsibility to sign up for a paper - if you do not sign up you will lose a significant amount of points in the course.
+Each student will need to present **at least one** research paper prior to the end of the semester.  It is your responsibility to sign up for a paper - if you do not sign up you will lose a significant amount of points in the course.
 
 Research papers will reflect the topic of the week.  Typically there will be more than one student presenting, so please decide on your ordering prior to class.
 
