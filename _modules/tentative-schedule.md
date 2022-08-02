@@ -8,7 +8,7 @@ title: Modules for CIS641 - Systems Analysis and Design
 
 2
 : [More Software Engineering](#){:target="_blank"}
-  : [Slides](#){:target="_blank"} \| Read Chapter 3
+  : [Slides](../assets/slides/CIS641-2-More-SE.pdf){:target="_blank"} \| Read Chapter 3
 
 3
 : [Functional / Structural / Behavioral Modeling](#){:target="_blank"}
