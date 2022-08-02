@@ -104,7 +104,8 @@
       background-color: $blue-000;
     }
 
-    &.meeting-minutes-due-by-midnight {
+    &.meeting-minutes-due-by-midnight,
+    &.research-templates-due-before-class {
       background-color: $red-000;
     }
   }

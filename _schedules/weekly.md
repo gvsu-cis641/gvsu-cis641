@@ -33,9 +33,6 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: MAK D2-210
-      - name: (S2) Research templates due
-        start: 3:00 PM
-        end: 3:55 PM
       - name: CIS680 (S2)
         start: 4:00 PM
         end: 5:15 PM
@@ -47,9 +44,9 @@ schedule:
         end: 10:00 AM
   - name: Wednesday
     events:
-      - name: (S1) Research templates due
-        start: 5:20 PM
-        end: 5:59 PM
+      - name: Research templates due before class!
+        start: 9:00 AM
+        end: 10:00 AM
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
