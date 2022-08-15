@@ -11,21 +11,21 @@ title: Modules for CIS641 - Systems Analysis and Design
   : [Slides](../assets/slides/CIS641-2-More-SE.pdf){:target="_blank"} \| Read Chapter 3
 
 3
-: [Functional / Structural / Behavioral Modeling](#){:target="_blank"}
-  : [Slides](#){:target="_blank"} \| Read Chapters 4-6
+: Functional / Structural / Behavioral Modeling
+  : Slides \| Read Chapters 4-6
 
-4
-: [Design](#){:target="_blank"}
-  : [Slides](#){:target="_blank"} \| Read Chapters 7-9
+
+: Design
+  : Slides \| Read Chapters 7-9
 
 5
-: [Human-Computer Interaction](#){:target="_blank"}
-  : [Slides](#){:target="_blank"} \| Read Chapter 10
+: Human-Computer Interaction
+  : Slides \| Read Chapter 10
 
 6
-: [Deployment Management](#){:target="_blank"}
-  : [Slides](#){:target="_blank"} \| Read Chapter 11
+: Deployment Management
+  : Slides \| Read Chapter 11
 
 7
-: [Search-Based Software Engineering](#){:target="_blank"}
-  : [Slides](#){:target="_blank"}
+: Search-Based Software Engineering
+  : Slides

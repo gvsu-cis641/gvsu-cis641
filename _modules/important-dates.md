@@ -10,26 +10,26 @@ title: Important Dates - Fall 2022
 : October 23-25
   : Fall break
 
-{: .label .label-red } Exam
-: October X
-  : Midterm exam
+{: .label .label-purple } Deliverable
+: (Section 1) October 14th 
+  : Term project status updates
 
 {: .label .label-purple } Deliverable
-: October X
+: (Section 2) October 12th and 14th 
   : Term project status updates
 
 {: .label .label-yellow } No class
 : November 23-27
   : Thanksgiving recess
 
-{: .label .label-purple } Deliverable
-: December 7 and 9
-  : Term project presentations
-
 {: .label .label-green } Info
 : December 10 @ 11:59pm
   : Classes end (all materials due)
 
 {: .label .label-red } Exam
-: December X @ 11:59pm
-  : Final exam
+: (Section 1) December 14 @ 4:00pm - 5:50pm
+  : Term project presentations
+
+{: .label .label-red } Exam
+: (Section 2) December 14 @ 6:00pm - 8:50pm
+  : Term project presentations

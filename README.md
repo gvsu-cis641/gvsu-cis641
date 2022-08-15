@@ -19,6 +19,13 @@ seo:
 
 ---
 
+## Upcoming Deadlines
+
+*Note - check Blackboard for any in-class assignments and assignment files!*
+
+* **Sept. 7th by 11:59pm** - HW1 (Prerequisites and Ethics)
+* **Sept 16th by 11:59pm** - HW1.5 (Research Paper Signups)
+
 ## Course Description
 
 * Models and techniques for the major phases of software development, with emphasis on requirements specification, design, testing, and software maintenance. 

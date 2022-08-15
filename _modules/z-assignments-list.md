@@ -9,10 +9,6 @@ title: Expected Assignments
   : **Homework**{: .label .label-purple } 
 
 &nbsp;
-: Team Formation 
-  : **Team Homework**{: .label .label-green } 
-
-&nbsp;
 : Project Setup + Project Management
   : **Homework**{: .label .label-purple } **Team Homework**{: .label .label-green } 
 
