@@ -22,7 +22,7 @@ Thanks for asking!  If I see or catch plagiarism/cheating I can guarantee that y
 
 Copying/pasting others ideas without attribution/distillation.  If you read an article, watch a video, use a book, basically anything outside of the course slides, you should reference the author and where you got the information from.  Rote copy/pasting is not allowed.  I am interested in what you have learned, not that you know how to copy from other sources.
 
-For additional reference: [GVSU Plagiarism Policy](https://www.gvsu.edu/istudents/plagiarism-72.htm)
+For additional reference: [GVSU Plagiarism Policy](https://www.gvsu.edu/istudents/plagiarism-72.htm) and [GVSU Computing Academic Honesty Policy](https://www.gvsu.edu/computing/academic-honesty-30.htm).
 
 (Not sure why this is limited to IS, it is applicable to everybody).
 
