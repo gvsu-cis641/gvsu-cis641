@@ -23,6 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
+* **Sept. 1st by 11:59pm** - In-Class Assignment 1 (Intro Slides)
 * **Sept. 8th by 11:59pm** - HW1 (Prerequisites and Ethics)
 * **Sept 16th by 11:59pm** - HW1.5 (Research Paper Signups)
 
