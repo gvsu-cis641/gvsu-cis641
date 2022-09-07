@@ -11,8 +11,8 @@ title: Modules for CIS641 - Systems Analysis and Design
   : [Slides](../assets/slides/CIS641-2-More-SE.pdf){:target="_blank"} \| Read Chapter 3
 
 3
-: Functional / Structural / Behavioral Modeling
-  : Slides \| Read Chapters 4-6
+: [Functional / Structural / Behavioral Modeling](../assets/slides/CIS641-3-Functional_Structural_Modeling.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS641-3-Functional_Structural_Modeling.pdf){:target="_blank"} \| Read Chapters 4-6
 
 
 : Design
