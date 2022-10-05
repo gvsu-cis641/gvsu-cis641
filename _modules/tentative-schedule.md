@@ -17,7 +17,7 @@ title: Modules for CIS641 - Systems Analysis and Design
   : [Slides](../assets/slides/CIS641-4-Behvaioral_Modeling.pdf){:target="_blank"} \| 
 
 
-: Design
+4 : Design
   : Slides \| Read Chapters 7-9
 
 5
