@@ -25,6 +25,7 @@ seo:
 
 * **Oct 6th by 11:59pm** - IC 4
 * **Oct 13th by 11:59pm** - HW 3
+* **Oct 19th** - Midterm Presentations
 
 ## Course Description
 
