@@ -23,6 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
+* **Oct 13th by 11:59pm** - IC 5
 * **Oct 13th by 11:59pm** - HW 3
 * **Oct 19th** - Midterm Presentations
 
