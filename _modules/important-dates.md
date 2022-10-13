@@ -11,11 +11,7 @@ title: Important Dates - Fall 2022
   : Fall break
 
 {: .label .label-purple } Deliverable
-: (Section 1) October 14th 
-  : Term project status updates
-
-{: .label .label-purple } Deliverable
-: (Section 2) October 12th and 14th 
+: October 19th 
   : Term project status updates
 
 {: .label .label-yellow } No class
