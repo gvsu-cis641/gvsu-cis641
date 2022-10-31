@@ -20,6 +20,8 @@ title: Modules for CIS641 - Systems Analysis and Design
 4 
 : [Design](../assets/slides/CIS641-5-Design.pdf){:target="_blank"}
   : [Slides](../assets/slides/CIS641-5-Design.pdf){:target="_blank"} \| Read Chapters 7-9
+: [Class and Method Design](../assets/slides/CIS641-6-Class-and-Method-Design.pdf){:target="_blank"}
+  : [Slides](../assets/slides/CIS641-6-Class-and-Method-Design.pdf){:target="_blank"} 
 
 5
 : Human-Computer Interaction
