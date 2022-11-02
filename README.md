@@ -24,6 +24,7 @@ seo:
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
 * **Nov 2nd** - Term Project Interim Progress
+* **Nov 3rd** - IC5
 
 ## Course Description
 
