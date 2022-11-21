@@ -32,8 +32,8 @@ title: Modules for CIS641 - Systems Analysis and Design
   : [Slides](../assets/slides/CIS641-7-Data-Persistence.pdf){:target="_blank"} 
 
 5
-: Human-Computer Interaction
-  : Slides \| Read Chapter 10
+: [Human-Computer Interaction](../assets/slides/CIS641-8-HCI-Design){:target="\_blank"}
+  : [Slides](../assets/slides/CIS641-8-HCI-Design.pdf){:target="\_blank"} \| Read Chapter 10
 
 6
 : Deployment Management
