@@ -36,8 +36,8 @@ title: Modules for CIS641 - Systems Analysis and Design
   : [Slides](../assets/slides/CIS641-8-HCI-Design.pdf){:target="\_blank"} \| Read Chapter 10
 
 6
-: Deployment Management
-  : Slides \| Read Chapter 11
+: [Deployment Management](../assets/slides/CIS641-9-Deployment-Management.pdf){:target="\_blank"}
+  : [Slides](../assets/slides/CIS641-9-Deployment-Management.pdf){:target="\_blank"} \| Read Chapter 11
 
 7
 : Search-Based Software Engineering
