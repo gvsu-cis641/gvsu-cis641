@@ -40,5 +40,5 @@ title: Modules for CIS641 - Systems Analysis and Design
   : [Slides](../assets/slides/CIS641-9-Deployment-Management.pdf){:target="\_blank"} \| Read Chapter 11
 
 7
-: Search-Based Software Engineering
-  : Slides
+: [Search-Based Software Engineering](../assets/slides/CIS641-10-SBSE.pdf){:target="\_blank"}
+  : [Slides](../assets/slides/CIS641-10-SBSE.pdf){:target="\_blank"}
