@@ -23,8 +23,6 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **Dec 10th** - Final deliverables
-
 ## Course Description
 
 * Models and techniques for the major phases of software development, with emphasis on requirements specification, design, testing, and software maintenance. 
@@ -49,7 +47,7 @@ This course is intended to be a managerial level viewpoint of the entire systems
 
 ## Lecture
 
-This class has *two* sections.  For both, we will meet in person.  Typically class will comprise a lecture, a research paper presentation, discussion, and some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
+This class has *two* sections.  For both, we will meet in person.  Typically class will comprise a lecture, <!--a research paper presentation, -->discussion, and some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
 
 **Note**: I will not accept late in-class assignment submissions - no exceptions.
 
@@ -76,6 +74,7 @@ To opt-out, visit this page: [https://lakerstore.gvsu.edu/gvsusave](https://lake
 
 ---
 
+<!--
 ## Research Paper Presentations
 
 Each student will need to present **at least one** research paper prior to the end of the semester.  It is your responsibility to sign up for a paper - if you do not sign up you will lose a significant amount of points in the course.
@@ -89,6 +88,7 @@ Your individual responsibilities include:
 * Presenting the paper to the class and answering questions regarding the paper.
 
 ---
+-->
 
 ## Term Project
 
@@ -101,7 +101,7 @@ There will be a semester-long term project.  Check out the [term projects page](
 All assignments are due by 11:59pm on the date they are due.  Please check Blackboard regularly for upcoming due dates.  If you are struggling or are having problems, please contact me in advance.  If you message me or email me the night something is due I will most likely not accept your reasoning.  If you get in touch early then we can work it out.
 
 * Individual and team assignment late penalty: 10% per day (including weekends)
-* Late in-class assignment submissions are **not accepted**
+* Late in-class assignment submissions are **not accepted** -- no exceptions.
 
 ### Submissions
 

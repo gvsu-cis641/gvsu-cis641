@@ -33,7 +33,7 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: MAK D2-210
-      - name: CIS680 (S2)
+      - name: CIS641 (S2)
         start: 4:00 PM
         end: 5:15 PM
         location: DCIH 303
@@ -44,18 +44,15 @@ schedule:
         end: 10:00 AM
   - name: Wednesday
     events:
-      - name: Research templates due before class!
-        start: 9:00 AM
-        end: 10:00 AM
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
         location: MAK D2-210
-      - name: CIS680 (S2)
+      - name: CIS641 (S2)
         start: 4:00 PM
         end: 5:15 PM
         location: DCIH 303
-      - name: CIS680 (S1)
+      - name: CIS641 (S1)
         start: 6:00 PM
         end: 8:50 PM
         location: DCIH 303
