@@ -1,5 +1,5 @@
 ---
-title: Modules for CIS641 - Systems Analysis and Design
+title: Slides for CIS641 - Systems Analysis and Design
 ---
 
 1
