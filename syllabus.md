@@ -7,8 +7,8 @@ description: >-
 
 # Syllabus
 
-* [(W) Section 1 - Fall 2022](/assets/Syllabus_F2022_CIS641_Fredericks.S1.pdf){:target="_blank"}
-* [(MW) Section 2 - Fall 2022](/assets/Syllabus_F2022_CIS641_Fredericks.S2.pdf){:target="_blank"}
+* [(W) Section 1 - Fall 2023](/assets/Syllabus_F2023_CIS641_Fredericks.S1.pdf){:target="_blank"}
+* [(MW) Section 2 - Fall 2023](/assets/Syllabus_F2023_CIS641_Fredericks.S2.pdf){:target="_blank"}
 
 ---
 
