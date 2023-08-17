@@ -23,6 +23,8 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
+* **HW1 - September 8th by 11:59pm**
+
 ## Course Description
 
 * Models and techniques for the major phases of software development, with emphasis on requirements specification, design, testing, and software maintenance. 
@@ -68,7 +70,7 @@ Each week I will assign readings and will sporadically assign problems from the 
 
 To save costs, I signed up for the GVSU SAVE program with the GVSU Bookstore.  This means that you are auto-charged for the book, however it is (in theory) offered at a significant cost savings.  You are allowed to **opt-out** if you wish to purchase the book yourself from another location, however you need to manually opt out.  
 
-**The deadline to opt-out is Friday, September 9th**.
+**The deadline to opt-out is Friday, September 8th**.
 
 To opt-out, visit this page: [https://lakerstore.gvsu.edu/gvsusave](https://lakerstore.gvsu.edu/gvsusave){:target="_blank"} and follow the instructions.
 
