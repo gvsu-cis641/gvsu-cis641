@@ -3,10 +3,10 @@ title: Slides for CIS641 - Systems Analysis and Design
 ---
 
 1
-: [Introduction](../assets/slides/CIS641-1-Intro-to-SAaD.pdf){:target="_blank"}
+: [Introduction](../assets/slides/CIS641-1-Intro-to-SAaD.pdf){:target="\_blank"}
 
 2
-: More Software Engineering
+: [More Software Engineering](../assets/slides/CIS641-2-More-SE.pdf){:target="\_blank"}
 
 3
 : Functional / Structural Modeling
