@@ -7,7 +7,7 @@ title: Important Dates - Fall 2023
   : Labor Day recess
 
 {: .label .label-red } Exam
-: October 12th 
+: October 11th 
   : Midterm exam <br /><b>S2 (4:00pm - 5:15pm)</b><br /><b>S1 (6:00pm - 7:15pm)</b>
 
 {: .label .label-purple } Deliverable
