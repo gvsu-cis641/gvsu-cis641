@@ -23,7 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **HW1 - September 8th by 11:59pm**
+* **HW2 - September 27th by 11:59pm**
 
 ## Course Description
 
