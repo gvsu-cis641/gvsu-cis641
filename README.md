@@ -23,8 +23,10 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **HW2 - September 27th by 11:59pm**
 * **IC2 - September 29th by 11:59pm**
+* **Midterm exam - October 11th**
+* **HW3 - October 13th by 11:59pm**
+* **Term project first presentations - October 18th**
 
 ## Course Description
 
