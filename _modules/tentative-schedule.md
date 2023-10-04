@@ -10,7 +10,7 @@ title: Slides for CIS641 - Systems Analysis and Design
 
 3
 : [Functional / Structural Modeling](../assets/slides/CIS641-3-Functional_Structural_Modeling.pdf){:target="\_blank"}
-: Behavioral Modeling
+: [Behavioral Modeling](../assets/slides/CIS641-4-Behavioral_Modeling.pdf){:target="\_blank"}
 
 4 
 : Design
