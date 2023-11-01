@@ -23,7 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **IC4 - October 26th by 11:59pm**
+* **IC5 - November 2nd by 11:59pm**
 * **HW4 - November 3rd by 11:59pm**
 
 ## Course Description
