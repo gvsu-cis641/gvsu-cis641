@@ -8,6 +8,8 @@ seo:
   name: Systems Analysis and Design
 ---
 
+# NOTE: CLASS NOV 8 (WED) WILL BE ON ZOOM
+
 # CIS641 - Systems Analysis and Design
 {:.no_toc}
 
