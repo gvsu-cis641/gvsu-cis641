@@ -25,7 +25,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **IC6 - November 9th by 11:59pm**
+* **IC7 - [Section 2] November 14th by 11:59pm**
 * **HW5 - November 21st by 11:59pm**
 
 ## Course Description
