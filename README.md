@@ -28,6 +28,9 @@ seo:
 * **IC7 - [Section 2] November 14th by 11:59pm**
 * **IC7 - [Section 1] November 16th by 11:59pm**
 * **HW5 - November 21st by 11:59pm**
+* **Final presentations - December 4th and 6th [Section 2]**
+* **Final presentations - December 6th [Section 1]**
+* **Final deliverables - December 9th (no late submissions accepted)**
 
 ## Course Description
 
