@@ -24,7 +24,7 @@ title: Slides for CIS641 - Systems Analysis and Design
 : [Human-Computer Interaction](../assets/slides/CIS641-8-HCI-Design.pdf){:target="\_blank"}
 
 6
-: Deployment Management
+: [Deployment Management](../assets/slides/CIS641-9-Deployment-Management.pdf){:target="\_blank"}
 
 7
 : Search-Based Software Engineering

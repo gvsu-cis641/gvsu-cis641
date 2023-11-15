@@ -8,7 +8,7 @@ seo:
   name: Systems Analysis and Design
 ---
 
-# NOTE: CLASS NOV 8 (WED) WILL BE ON ZOOM
+# NOTE: CLASS NOV 15 WILL BE ON ZOOM
 
 # CIS641 - Systems Analysis and Design
 {:.no_toc}
@@ -26,6 +26,7 @@ seo:
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
 * **IC7 - [Section 2] November 14th by 11:59pm**
+* **IC7 - [Section 1] November 16th by 11:59pm**
 * **HW5 - November 21st by 11:59pm**
 
 ## Course Description
