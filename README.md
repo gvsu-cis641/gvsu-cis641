@@ -8,8 +8,6 @@ seo:
   name: Systems Analysis and Design
 ---
 
-# NOTE: CLASS NOV 20 WILL BE ON ZOOM
-
 # CIS641 - Systems Analysis and Design
 {:.no_toc}
 
@@ -25,9 +23,6 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **IC7 - [Section 2] November 14th by 11:59pm**
-* **IC7 - [Section 1] November 16th by 11:59pm**
-* **HW5 - November 21st by 11:59pm**
 * **Final presentations - December 4th and 6th [Section 2]**
 * **Final presentations - December 6th [Section 1]**
 * **Final deliverables - December 9th (no late submissions accepted)**
