@@ -1,13 +1,13 @@
 ---
-title: Important Dates - Fall 2023
+title: Important Dates - Fall 2024
 ---
 
 {: .label .label-yellow } No class
-: September 3-4
+: September 1-2
   : Labor Day recess
 
 {: .label .label-red } Exam
-: October 11th 
+: October 9th 
   : Midterm exam <br /><b>S2 (4:00pm - 5:15pm)</b><br /><b>S1 (6:00pm - 7:15pm)</b>
 
 {: .label .label-purple } Deliverable
@@ -15,11 +15,11 @@ title: Important Dates - Fall 2023
   : Term project status updates
 
 {: .label .label-yellow } No class
-: October 22-24
+: October 20-22
   : Fall break
 
 {: .label .label-yellow } No class
-: November 22-26
+: November 27 - December 1
   : Thanksgiving recess
 
 {: .label .label-purple } Deliverable
@@ -27,9 +27,9 @@ title: Important Dates - Fall 2023
   : Term project presentations
 
 {: .label .label-green } Info
-: December 9 @ 11:59pm
+: December 7 @ 11:59pm
   : Classes end (all materials due)
 
 {: .label .label-red } Exam
-: December 13th
+: December 11th
   : Final exam <br /><b>S2 (4:00pm - 5:50pm)</b><br /><b>S1 (6:00pm - 7:50pm)</b>

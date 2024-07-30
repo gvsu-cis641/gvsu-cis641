@@ -23,9 +23,8 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **Final presentations - December 4th and 6th [Section 2]**
-* **Final presentations - December 6th [Section 1]**
-* **Final deliverables - December 9th (no late submissions accepted)**
+* **IC1** -- TBD
+* **HW1** -- TBD
 
 ## Course Description
 
@@ -52,8 +51,6 @@ This course is intended to be a managerial level viewpoint of the entire systems
 ## Lecture
 
 This class has *two* sections.  For both, we will meet in person.  Typically class will comprise a lecture, <!--a research paper presentation, -->discussion, and some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
-
-**Note**: I will not accept late in-class assignment submissions - no exceptions.
 
 ---
 
@@ -104,8 +101,7 @@ There will be a semester-long term project.  Check out the [term projects page](
 
 All assignments are due by 11:59pm on the date they are due.  Please check Blackboard regularly for upcoming due dates.  If you are struggling or are having problems, please contact me in advance.  If you message me or email me the night something is due I will most likely not accept your reasoning.  If you get in touch early then we can work it out.
 
-* Individual and team assignment late penalty: 10% per day (including weekends)
-* Late in-class assignment submissions are **not accepted** -- no exceptions.
+* Individual and team assignment late penalty: 10% per day (including weekends) - assignments are not accepted after 3 days.
 
 ### Submissions
 
