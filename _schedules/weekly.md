@@ -30,9 +30,9 @@ schedule:
   - name: Monday
     events:
       - name: Office Hours
-        start: 11:00 AM
-        end: 12:00 PM
-        location: MAK D2-210
+        start: 2:00 PM
+        end: 3:00 PM
+        location: DCIH 530M
       - name: CIS641 (S2)
         start: 4:00 PM
         end: 5:15 PM
@@ -42,12 +42,12 @@ schedule:
       - name: Meeting minutes due by midnight!
         start: 9:00 AM
         end: 10:00 AM
+      - name: Office Hours
+        start: 10:00 AM
+        end: 11:00 AM
+        location: MAK D2-210
   - name: Wednesday
     events:
-      - name: Office Hours
-        start: 11:00 AM
-        end: 12:00 PM
-        location: MAK D2-210
       - name: CIS641 (S2)
         start: 4:00 PM
         end: 5:15 PM
@@ -57,10 +57,10 @@ schedule:
         end: 8:50 PM
         location: DCIH 303
   - name: Thursday
-  - name: Friday
     events:
       - name: Office Hours
-        start: 11:00 AM
-        end: 12:00 PM
+        start: 10:00 AM
+        end: 11:00 AM
         location: MAK D2-210
+  - name: Friday
 ---
