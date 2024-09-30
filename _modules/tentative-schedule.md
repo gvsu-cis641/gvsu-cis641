@@ -9,7 +9,7 @@ title: Slides for CIS641 - Systems Analysis and Design
 : [More Software Engineering (updated 09/23)](../assets/slides/CIS641-2-More-SE.pdf){:target="\_blank"}
 
 3
-: [Functional / Structural Modeling (updated 09/25)](../assets/slides/CIS641-3-Functional_Structural_Modeling.pdf){:target="\_blank"}
+: [Functional / Structural Modeling (updated 09/30)](../assets/slides/CIS641-3-Functional_Structural_Modeling.pdf){:target="\_blank"}
 : Behavioral Modeling
 
 4 
