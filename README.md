@@ -25,6 +25,8 @@ seo:
 
 * **IC2** (S02) -- Oct. 1 by 11:59pm
 * **IC2** (S01) -- Oct. 3 by 11:59pm
+* **Midterm** -- Oct. 9
+* **HW3** -- Oct. 14 by 11:59pm
 
 ## Course Description
 
