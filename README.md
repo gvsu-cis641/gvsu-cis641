@@ -27,6 +27,7 @@ seo:
 * **IC2** (S01) -- Oct. 3 by 11:59pm
 * **Midterm** -- Oct. 9
 * **HW3** -- Oct. 14 by 11:59pm
+* **Term project status update** -- October 16th
 
 ## Course Description
 
