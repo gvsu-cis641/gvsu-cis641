@@ -23,9 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **IC2** (S02) -- Oct. 1 by 11:59pm
-* **IC2** (S01) -- Oct. 3 by 11:59pm
-* **Midterm** -- Oct. 9
+* **IC3** (S02) -- Oct. 17 by 11:59pm
 * **HW3** -- Oct. 14 by 11:59pm
 * **Term project status update** -- October 16th
 
