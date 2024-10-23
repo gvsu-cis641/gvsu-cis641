@@ -13,7 +13,7 @@ title: Slides for CIS641 - Systems Analysis and Design
 : [Behavioral Modeling](../assets/slides/CIS641-4-Behavioral_Modeling.pdf){:target="\_blank"}
 
 4 
-: Design
+: [Design](../assets/slides/CIS641-5-Design.pdf){:target="\_blank"}
 : Class and Method Design
 : CIS350 - Design Patterns 1
 : CIS350 - Design Patterns 3
