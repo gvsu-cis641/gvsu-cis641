@@ -23,9 +23,7 @@ seo:
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **IC3** (S02) -- Oct. 17 by 11:59pm
-* **HW3** -- Oct. 14 by 11:59pm
-* **Term project status update** -- October 16th
+* **IC3** (S01) -- Oct. 24 by 11:59pm
 
 ## Course Description
 
