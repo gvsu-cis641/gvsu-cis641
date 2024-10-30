@@ -24,6 +24,7 @@ seo:
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
 * **IC4** (S02) -- Oct. 29th by 11:59pm
+* **IC4** (S01) -- Oct. 31st by 11:59pm
 * **HW4** -- Nov. 8 by 11:59pm
 
 ## Course Description
