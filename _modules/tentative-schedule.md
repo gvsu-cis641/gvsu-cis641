@@ -14,10 +14,10 @@ title: Slides for CIS641 - Systems Analysis and Design
 
 4 
 : [Design](../assets/slides/CIS641-5-Design.pdf){:target="\_blank"}
-: Class and Method Design
-: CIS350 - Design Patterns 1
-: CIS350 - Design Patterns 3
-: CIS350 - Design Patterns 4
+: [Class and Method Design](../assets/slides/CIS641-6-Class-and-Method-Design.pdf){:target="\_blank"}
+: [CIS350 - Design Patterns 1](../assets/slides/CIS350-15-Design-Patterns-1.pdf){:target="\_blank"}
+: [CIS350 - Design Patterns 3](../assets/slides/CIS350-17-Design-Patterns-3.pdf){:target="\_blank"}
+: [CIS350 - Design Patterns 4](../assets/slides/CIS350-18-Design-Patterns-4.pdf){:target="\_blank"}
 : Data Persistence
 
 5
