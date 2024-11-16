@@ -21,7 +21,7 @@ title: Slides for CIS641 - Systems Analysis and Design
 : [Data Persistence](../assets/slides/CIS641-7-Data-Persistence.pdf){:target="\_blank"}
 
 5
-: Human-Computer Interaction
+: [Human-Computer Interaction](../assets/slides/CIS641-8-HCI-Design.pdf){:target="\_blank"}
 
 6
 : Deployment Management
