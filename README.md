@@ -19,13 +19,16 @@ seo:
 
 ---
 
+## Dates
+
+* **No class Dec. 4**
+* **Final exam is Dec. 9 - 11 on Blackboard** - no late submissions will be accepted
+
 ## Upcoming Deadlines
 
 *Note - check Blackboard for any in-class assignments and assignment files!*
 
-* **IC6 (S02)** -- Nov. 19 by 11:59pm
-* **IC6 (S01)** -- Nov. 21 by 11:59pm
-* **HW5** -- Nov. 22 by 11:59pm
+* **Term Project Deliverables** -- Dec. 7 by 11:59pm - no late submissions will be accepted
 
 ## Course Description
 

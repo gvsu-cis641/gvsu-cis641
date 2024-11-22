@@ -23,7 +23,7 @@ title: Important Dates - Fall 2024
   : Thanksgiving recess
 
 {: .label .label-purple } Deliverable
-: TBD ~ last week of class <!--December 7 and 9-->
+: December 7 (online) <!--December 7 and 9-->
   : Term project presentations
 
 {: .label .label-green } Info
@@ -31,5 +31,11 @@ title: Important Dates - Fall 2024
   : Classes end (all materials due)
 
 {: .label .label-red } Exam
+: December 9th - 11th 
+  : Final exam <br /><b>online on Blackboard</b>
+
+<!--
+{: .label .label-red } Exam
 : December 11th
   : Final exam <br /><b>S2 (4:00pm - 5:50pm)</b><br /><b>S1 (6:00pm - 7:50pm)</b>
+-->
