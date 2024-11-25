@@ -1,0 +1,10 @@
+from app import add, sub
+
+def test_add():
+    assert add(4, 5) == 9
+
+def test_sub():
+    assert sub(5, 4) == 1
+
+def test_sub2():
+    assert sub(6, 4) == 2
