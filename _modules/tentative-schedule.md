@@ -28,3 +28,4 @@ title: Slides for CIS641 - Systems Analysis and Design
 
 7
 : [Search-Based Software Engineering](../assets/slides/CIS641-10-SBSE.pdf){:target="\_blank"}
+: [Search-Based Software Engineering 2 (EC)](../assets/slides/CIS641-10.5-SBSE2.pdf){:target="\_blank"}
